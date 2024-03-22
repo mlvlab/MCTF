@@ -3,7 +3,7 @@
 
 Official implementation of CVPR 2024 paper "Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers".
 
-Code will be released soon after the conference.
+Code will be released soon.
 
 
 ## Citation
