@@ -4,7 +4,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-criteria-token-fusion-with-one-step/efficient-vits-on-imagenet-1k-with-deit-t)](https://paperswithcode.com/sota/efficient-vits-on-imagenet-1k-with-deit-t?p=multi-criteria-token-fusion-with-one-step)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-criteria-token-fusion-with-one-step/efficient-vits-on-imagenet-1k-with-lv-vit-s)](https://paperswithcode.com/sota/efficient-vits-on-imagenet-1k-with-lv-vit-s?p=multi-criteria-token-fusion-with-one-step)  
 
-Official implementation of CVPR 2024 paper "Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers".
+Official implementation of CVPR 2024 paper "[Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers](https://arxiv.org/abs/2403.10030)".
 
 ![MCTF Figure](img/concept_art.png)
 
