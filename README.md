@@ -38,14 +38,14 @@ Flops and Throughput are measured with single RTX 3090.
 MCTF-Fast is advanced version of MCTF that boost the throughput while keeping the accuracy and FLOPs by changing the drop ratio per layer.
 
 
-|   Baseline Model   | Top 1 Accuracy | GFLOPs | Throughput |                  script                  | Checkpoint |
-|:------------------:|:--------------:|:------:|:----------:|:----------------------------------------:|:----------:|
-|       DeiT-T       |      72.2      |  1.26  |            |                    -                     |     -      |
-|   MCTF (DeiT-T)    |      72.7      |  0.71  |    4639    |   [script](./run/eval_deit_t_mctf.sh)    |    TBD     |
-| MCTF-Fast (DeiT-T) |      72.7      |  0.75  |    7386    | [script](./run/eval_deit_t_mctf_fast.sh) |    TBD     | 
-|       DeiT-S       |      79.8      |  4.61  |            |                    -                     |     -      | 
-|   MCTF (DeiT-S)    |      80.1      |  2.60  |    2302    |   [script](./run/eval_deit_s_mctf.sh)    |    TBD     |
-| MCTF-Fast (DeiT-S) |      80.1      |  2.76  |    3302    | [script](./run/eval_deit_s_mctf_fast.sh) |    TBD     |
+|   Baseline Model   | Top 1 Accuracy | GFLOPs | Throughput |                  script                  |                                         Checkpoint                                          |
+|:------------------:|:--------------:|:------:|:----------:|:----------------------------------------:|:-------------------------------------------------------------------------------------------:|
+|       DeiT-T       |      72.2      |  1.26  |     -      |                    -                     |                                              -                                              |
+|   MCTF (DeiT-T)    |      72.7      |  0.71  |    4639    |   [script](./run/eval_deit_t_mctf.sh)    | [drive](https://drive.google.com/file/d/1Q9yQ2-oof39fVHTKQtffmn1p-8pcgaDI/view?usp=sharing) |
+| MCTF-Fast (DeiT-T) |      72.7      |  0.75  |    7386    | [script](./run/eval_deit_t_mctf_fast.sh) | [drive](https://drive.google.com/file/d/1Q9yQ2-oof39fVHTKQtffmn1p-8pcgaDI/view?usp=sharing) | 
+|       DeiT-S       |      79.8      |  4.61  |     -      |                    -                     |                                              -                                              | 
+|   MCTF (DeiT-S)    |      80.1      |  2.60  |    2302    |   [script](./run/eval_deit_s_mctf.sh)    | [drive](https://drive.google.com/file/d/12MAgOFGYX9RmyA7TOkMvL2a01zX7NieM/view?usp=sharing) |
+| MCTF-Fast (DeiT-S) |      80.1      |  2.76  |    3302    | [script](./run/eval_deit_s_mctf_fast.sh) | [drive](https://drive.google.com/file/d/12MAgOFGYX9RmyA7TOkMvL2a01zX7NieM/view?usp=sharing) |
 
 
 ## Citation
