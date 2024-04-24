@@ -41,11 +41,11 @@ MCTF-Fast is advanced version of MCTF that boost the throughput while keeping th
 |   Baseline Model   | Top 1 Accuracy | GFLOPs | Throughput |                  script                  |                                         Checkpoint                                          |
 |:------------------:|:--------------:|:------:|:----------:|:----------------------------------------:|:-------------------------------------------------------------------------------------------:|
 |       DeiT-T       |      72.2      |  1.26  |     -      |                    -                     |                                              -                                              |
-|   MCTF (DeiT-T)    |      72.7      |  0.71  |    4639    |   [script](./run/eval_deit_t_mctf.sh)    | [drive](https://drive.google.com/file/d/1Q9yQ2-oof39fVHTKQtffmn1p-8pcgaDI/view?usp=sharing) |
-| MCTF-Fast (DeiT-T) |      72.7      |  0.75  |    7386    | [script](./run/eval_deit_t_mctf_fast.sh) | [drive](https://drive.google.com/file/d/1Q9yQ2-oof39fVHTKQtffmn1p-8pcgaDI/view?usp=sharing) | 
+|   MCTF (DeiT-T)    |      72.7      |  0.71  |    4639    |   [script](./run/eval_deit_t_mctf.sh)    | [drive](https://drive.google.com/drive/folders/1a7Kr8YTwgWai7ZK6w5fVOn1R_VVYfnHB?usp=sharing) |
+| MCTF-Fast (DeiT-T) |      72.7      |  0.75  |    7386    | [script](./run/eval_deit_t_mctf_fast.sh) | [drive](https://drive.google.com/drive/folders/16DXTcbnemHUtzx1JXYgUJlSl_aXO5oCQ?usp=sharing) | 
 |       DeiT-S       |      79.8      |  4.61  |     -      |                    -                     |                                              -                                              | 
-|   MCTF (DeiT-S)    |      80.1      |  2.60  |    2302    |   [script](./run/eval_deit_s_mctf.sh)    | [drive](https://drive.google.com/file/d/12MAgOFGYX9RmyA7TOkMvL2a01zX7NieM/view?usp=sharing) |
-| MCTF-Fast (DeiT-S) |      80.1      |  2.76  |    3302    | [script](./run/eval_deit_s_mctf_fast.sh) | [drive](https://drive.google.com/file/d/12MAgOFGYX9RmyA7TOkMvL2a01zX7NieM/view?usp=sharing) |
+|   MCTF (DeiT-S)    |      80.1      |  2.60  |    2302    |   [script](./run/eval_deit_s_mctf.sh)    | [drive](https://drive.google.com/drive/folders/1JFebSnWF77O3MqBE1Dln_W4RAjqi19ro?usp=sharing) |
+| MCTF-Fast (DeiT-S) |      80.1      |  2.76  |    3302    | [script](./run/eval_deit_s_mctf_fast.sh) | [drive](https://drive.google.com/drive/folders/1Ofsab5gtBHJ-TkD8gJbEbTBtB7UX3fXA?usp=sharing) |
 
 
 ## Citation
